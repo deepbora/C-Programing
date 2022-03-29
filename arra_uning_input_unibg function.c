@@ -24,10 +24,8 @@ int main()
 
     printf("how many number would you want\n");
     scanf("%d",&num);
-
-    
-
-
+	//func(x,num);
+ 
     for (int i = 0; i < num; i++)
     {
         printf("enter the %dth number:",i+1);
